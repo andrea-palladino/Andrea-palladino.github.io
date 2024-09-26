@@ -12,3 +12,4 @@ www.linkedin.com/in/andreapalladino4
 
 (![IMG_0581](https://github.com/user-attachments/assets/ca1390f7-219a-4cb4-bc55-45413707ca2a)
 
+![students](https://raw.githubusercontent.com/andrea-palladino/Andrea-palladino.github.io/a08a4f3145ebbd54e1ac835ef3bb4b0014c6539f/First-Year%20Class%20Fall%202024%20Enrollment.jpg)
