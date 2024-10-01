@@ -14,4 +14,4 @@ www.linkedin.com/in/andreapalladino4
 
 ![students](https://raw.githubusercontent.com/andrea-palladino/Andrea-palladino.github.io/a08a4f3145ebbd54e1ac835ef3bb4b0014c6539f/First-Year%20Class%20Fall%202024%20Enrollment.jpg)
 
-![infographic](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/Combating%20sexual%20assault-2.pdf)
+![infographic](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/Combating%20sexual%20assault-2.jpg?raw=true)
