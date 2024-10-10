@@ -30,4 +30,4 @@ These are statistics regarding college students experiences with sexual assault 
 
 ## Lehigh Undergraduate Enrollment 
 
-![https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/LehighPercentages.png?raw=true]
+![enrollment][(https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/LehighPercentages.png?raw=true)
