@@ -27,3 +27,7 @@ These are statistics regarding college students experiences with sexual assault 
 ## Billie Eilish
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qj1NxtGv9HQGl_drRDin_5FL9mzXFvPlDhmSOXjN5kY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Lehigh Undergraduate Enrollment 
+
+![https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/LehighPercentages.png?raw=true]
