@@ -26,8 +26,13 @@ These are statistics regarding college students experiences with sexual assault 
 
 ## Billie Eilish
 
+This is a timeline of singer, Billie Eilish's success. She started young in the industry and is now one of the biggest artists in the word. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qj1NxtGv9HQGl_drRDin_5FL9mzXFvPlDhmSOXjN5kY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Lehigh Undergraduate Enrollment 
 
 ![enrollment](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/LehighPercentages.png?raw=true)
+
+## Top Fossil Fuel Consumption by Country 
+This is a chart showing the countries that used the most amount of fossil fuels in 2023, as well as which types of fossil fuels they used. 
+![fossil](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/Top_Fossil_Fuel_Consumption_by_Country_Oil(Exajoules)_Natural_Gas_Coal_chartbuilder.jpg?raw=true)
