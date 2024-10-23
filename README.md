@@ -36,3 +36,7 @@ This is a timeline of singer, Billie Eilish's success. She started young in the 
 ## Top Fossil Fuel Consumption by Country 
 This is a chart showing the countries that used the most amount of fossil fuels in 2023, as well as which types of fossil fuels they used. 
 ![fossil](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/Top_Fossil_Fuel_Consumption_by_Country_Oil(Exajoules)_Natural_Gas_Coal_chartbuilder.jpg?raw=true)
+
+## Unemployment Rates over the last year in US and China 
+This is a line graph showing the unemployment rates in these two countries, which is important to show how certain events throughout the year have made unemployment increase and decrease. This analyzes the trend thorughout the year and how these countries are recovering 4 years after the pandemic. 
+![unemploy](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/Unemployment_Rates_over_the_last_Year_U.S_China_chartbuilder-2.jpg)
