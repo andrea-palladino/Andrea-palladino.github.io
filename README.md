@@ -40,3 +40,8 @@ This is a chart showing the countries that used the most amount of fossil fuels 
 ## Unemployment Rates over the last year in US and China 
 This is a line graph showing the unemployment rates in these two countries, which is important to show how certain events throughout the year have made unemployment increase and decrease. This analyzes the trend thorughout the year and how these countries are recovering 4 years after the pandemic. 
 ![unemploy](https://github.com/andrea-palladino/Andrea-palladino.github.io/blob/main/Unemployment_Rates_over_the_last_Year_U.S_China_chartbuilder-2.jpg)
+
+## 2019 Top Global Cycling Cities 
+This is an interactive map of the top 20 cycling cities in the world. 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XMvqW0zMtjAo29JcspPUFlA1DQQ2xQk&ehbc=2E312F" width="640" height="480"></iframe>
