@@ -45,3 +45,7 @@ This is a line graph showing the unemployment rates in these two countries, whic
 This is an interactive map of the top 20 cycling cities in the world. 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XMvqW0zMtjAo29JcspPUFlA1DQQ2xQk&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Top 5 Most Visited Amusement Parks 2023-2024
+This is an interactive map of the top 5 most visited amusement parks for 2023-20204. 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1d6TQODyANl08a600ryvOLFOyc3jzL0s&ehbc=2E312F" width="640" height="480"></iframe>
